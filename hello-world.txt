@@ -1,1 +1,3 @@
 echo "Hello, DevOps!" 
+selamat datang di dunia devops
+selamat pagi semuanya
